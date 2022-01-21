@@ -1,0 +1,50 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.h-h2 {
+    color: ivory;
+    background-color: blue;
+    height: 150px;
+    text-align: center;
+}
+
+.m-s-d-h2 {
+    color: rgb(236, 233, 232);
+    background-color: indigo;
+    height: 450px;
+    width: 350px;
+    text-align: center
+}
+
+.m-s2-d-h2 {
+    background-color: rgb(236, 228, 228);
+    height: 450px;
+    width: 850px;
+    text-align: center
+}
+
+.m-s3-d-h2 {
+    color: ivory;
+    background-color: indigo;
+    height: 450px;
+    width: 350px;
+    text-align: center
+}
+
+main {
+    display: flex;
+}
+
+.f-h2 {
+    color: ivory;
+    background-color: blue;
+    height: 150px;
+    text-align: center;
+}
